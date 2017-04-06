@@ -140,7 +140,7 @@ nav {
 .strip-3 {
   width: 20px;
   height: 20px;
-  background: #e12b00;
+  background: #9a9493;
   position: relative;
   -webkit-animation: stripMove 2s ease infinite alternate;
   animation: stripMove 2s ease infinite alternate;
@@ -374,8 +374,8 @@ span a:hover {
 }
 p a,
 .text-link a {
-  color: #e12b00 !important;
-  border-color: #e12b00;
+  color: #9a9493 !important;
+  border-color: #9a9493;
   padding-bottom: 2px;
 }
 p a,
@@ -385,7 +385,7 @@ p a,
 .btn {
   min-width: 180px;
   border-radius: 25px;
-  background: #e12b00;
+  background: #9a9493;
   text-align: center;
   padding: 13px 0px 14px 0px;
   color: #fff;
@@ -398,19 +398,19 @@ p a,
 }
 .btn:hover {
   color: #fff;
-  background: #c82600;
+  background: #332c2a;
 }
 .btn-hollow {
   background: none;
-  border: 2px solid #e12b00;
-  color: #e12b00;
+  border: 2px solid #9a9493;
+  color: #9a9493;
 }
 .btn-hollow:hover {
-  background: #e12b00;
+  background: #9a9493;
 }
 .btn-white {
   background: #fff;
-  color: #e12b00;
+  color: #9a9493;
 }
 .btn-white:hover {
   background: #fff;
@@ -423,7 +423,7 @@ p a,
 }
 .btn-hollow.btn-white:hover {
   background: #fff;
-  color: #e12b00;
+  color: #9a9493;
 }
 .btn-lg {
   padding: 20px 0px 21px 0px;
@@ -868,7 +868,7 @@ nav .container {
 }
 .hero-slider .btn-hollow:hover {
   background: #fff;
-  color: #e12b00;
+  color: #9a9493;
 }
 @media all and (max-width: 767px) {
   .hero-slider .btn-hollow {
@@ -950,7 +950,7 @@ nav .container {
   text-align: left;
 }
 .primary-overlay:before {
-  background-color: #e12b00;
+  background-color: #9a9493;
   opacity: 0.8;
   position: absolute;
   content: '';
@@ -958,7 +958,7 @@ nav .container {
   height: 100%;
   z-index: 1;
   top: 0px;
-  background-color: #e12b00 !important;
+  background-color: #9a9493 !important;
 }
 .strip-divider {
   padding: 216px 0px;
@@ -1203,7 +1203,7 @@ nav .container {
 }
 .color-blocks i,
 .contained-promo i {
-  color: #e12b00;
+  color: #9a9493;
   font-size: 70px;
   display: inline-block;
   border: 2px solid #fff;
@@ -1218,10 +1218,10 @@ nav .container {
   -moz-transition: all 0.1s ease-out;
 }
 .block-left {
-  background-color: #e12b00;
+  background-color: #9a9493;
 }
 .block-right {
-  background-color: #b82300;
+  background-color: #332c2a;
   right: 0px;
 }
 @media all and (max-width: 768px) {
@@ -1362,7 +1362,7 @@ nav .container {
 }
 .topic i {
   font-size: 60px;
-  color: #e12b00;
+  color: #9a9493;
   display: inline-block;
   margin-bottom: 32px;
 }
@@ -1759,7 +1759,7 @@ nav .container {
   color: #777777;
 }
 .pricing-option.emphasis {
-  background: #e12b00;
+  background: #9a9493;
   color: #fff;
 }
 .pricing-option.emphasis .type,
@@ -1900,7 +1900,7 @@ p.question {
 // 15. Contact
 // --------------------------------------------------*/
 .contact-tweets {
-  background: #e12b00;
+  background: #9a9493;
   color: #fff;
   position: relative;
   overflow: hidden;
@@ -1949,7 +1949,7 @@ p.question {
 }
 .contact-tweets form .btn {
   background: #fff;
-  color: #e12b00;
+  color: #9a9493;
 }
 .contact-tweets form ::-webkit-input-placeholder {
   color: rgba(255, 255, 255, 0.9);
@@ -2011,8 +2011,8 @@ p.question {
   margin-top: 24px;
 }
 .sponsors span a {
-  color: #e12b00;
-  border-color: #e12b00;
+  color: #9a9493;
+  border-color: #9a9493;
 }
 @media all and (min-width: 321px) and (max-width: 767px) and (orientation: landscape) {
   .sponsors .col-sm-6 {
@@ -2105,7 +2105,7 @@ input[type="submit"] {
   background: rgba(0, 0, 0, 0.2);
 }
 .subscribe-2 i {
-  color: #e12b00;
+  color: #9a9493;
   font-size: 70px;
   display: inline-block;
   margin-right: 24px;
@@ -2166,7 +2166,7 @@ form .field-error {
 // Utility Pages
 // --------------------------------------------------*/
 .error-page {
-  background: #e12b00;
+  background: #9a9493;
   padding: 0px;
 }
 .error-page h1 {
